@@ -37,4 +37,7 @@ $('.move-up span').click(function(){
     scrollTop:0
     },1000);
 })
+
+//AOS instance
+AOS.init();
 });
